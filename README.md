@@ -1,4 +1,4 @@
-# CREATE A TO-DO LIST APP WITH REACT JS
+# TO-DO LIST APP USING REACT JS
 * Create a simple to-do list with React JS. 
 * The list should have ability to do following operations - Add, Remove and Delete to-do items from the list   
 * It should also allow user to mark the to-do item as Checked or Un-checked.
